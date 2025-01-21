@@ -1,13 +1,5 @@
 To develop the project we use the dataset available on Kaggle at the following link: https://www.kaggle.com/datasets/muratkokludataset/rice-image-dataset. The dataset is called *Rice Image Dataset*. It contains 75K images including 15K images for each rice variety that are: Arborio, Basmati, Ipsala, Jasmine and Karacadag.
 
-## Final Results
-
-The best model from scratch is the **Model_v7**. <br>
-
-# How to run the code
-
-Unless otherwise specified in the notebook section all codes can be runned in Google Colaboratory platform. All notebooks all already setted to import the necessary packages and also in this way you can easily use a GPU!
-
 # References
 
 [1] Koklu, M., Cinar, I., & Taspinar, Y. S. (2021). Classification of rice varieties with deep learning methods. Computers and Electronics in Agriculture, 187, 106285. https://doi.org/10.1016/j.compag.2021.106285
